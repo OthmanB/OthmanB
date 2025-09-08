@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @OthmanB
 - 👀 I’m interested in Asteroseismology, Physics and Statistics
-- 🌱 I’m currently working on asteroseismic data from CoRoT, Kepler and TESS. And looking forward to see the PLATO data once available
-- 📫 How to reach me othman.benomar@nao.ac.jp
+- 🌱 I worked on asteroseismic data from CoRoT, Kepler and TESS until 2024.
+- I am now working on distributed system analytics 
+- 📫 How to reach me othman.benomar.pro@gmail.com
 
 <!---
 OthmanB/OthmanB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
